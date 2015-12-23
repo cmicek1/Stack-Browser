@@ -1,1 +1,2 @@
-# Stack-Browser - Useful tool for browsing .tif vascular image hyperstacks
+# Stack-Browser
+Useful tool for browsing .tif vascular image hyperstacks
